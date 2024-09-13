@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/julianBogado1/ConventionalActualRepo/compare/v1.0.0...v1.0.1) (2024-09-13)
+
+
+### Bug Fixes
+
+* Fixed missing readme ([3d0d3af](https://github.com/julianBogado1/ConventionalActualRepo/commit/3d0d3afd494f2e31cc3db3080ba008f175a8e89e))
+
+
+
 # [1.0.0](https://github.com/julianBogado1/ConventionalActualRepo/compare/v0.1.0...v1.0.0) (2024-09-13)
 
 
