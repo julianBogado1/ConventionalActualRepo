@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/julianBogado1/ConventionalActualRepo/compare/v1.0.1...v2.0.0) (2024-10-29)
+
+
+### Features
+
+* new feature ([6d206dd](https://github.com/julianBogado1/ConventionalActualRepo/commit/6d206dd3c3c6b66a109dee376dcf80013a7137e2))
+
+
+### BREAKING CHANGES
+
+* new breaking change
+
+
+
 ## [1.0.1](https://github.com/julianBogado1/ConventionalActualRepo/compare/v1.0.0...v1.0.1) (2024-09-13)
 
 
